@@ -1,5 +1,6 @@
-# MNIST-CNN-Model-Comparison
-Comparison of Perceptron, ANN, and CNN models for MNIST handwritten digit classification.
+# MNIST Classification: Perceptron vs ANN vs CNN
+
+## Overview
 
 This project implements and compares three different neural network
 approaches for handwritten digit classification using the MNIST dataset:
